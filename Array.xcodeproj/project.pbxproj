@@ -416,6 +416,7 @@
 				E19478051B817D7F00A93BDD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E19478061B817D7F00A93BDD /* Build configuration list for PBXNativeTarget "ArrayTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +425,7 @@
 				E19478081B817D7F00A93BDD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

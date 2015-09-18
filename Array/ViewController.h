@@ -13,3 +13,11 @@
 
 @end
 
+@interface Footballplayer : NSObject
+
+@property (nonatomic, strong)NSString* fullName;
+@property (nonatomic, strong)NSString* ID;
+
+-(instancetype) init: (NSString*) fullName and: (NSString*) ID;
+
+@end
